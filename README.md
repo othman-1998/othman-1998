@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net, Entity Framework Core (MVC, WEB API)**
 
-- 👨‍💻 Some of my projects are available at [https://othmanmounir.vercel.app/](https://othmanmounir.vercel.app/)
+- 👨‍💻 Some of my projects are available at **[https://othmanmounir.vercel.app/](https://othmanmounir.vercel.app/)**
 
 - 📫 Reach out to me at **othmanelm@outlook.dk**
 
