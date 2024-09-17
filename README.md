@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Othman 👋</h1>
-<h3 align="center">A skilled front-end software developer from Denmark, Copenhagen</h3>
+<h3 align="center">A skilled software developer from Denmark, Copenhagen</h3>
 
 <br>
 
