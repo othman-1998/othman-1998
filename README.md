@@ -32,7 +32,7 @@ I build stuff, break stuff, fix it and automate whatever gets annoying.
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
-  <img src="https://seeklogo.com/images/U/uipath-logo-5D0E0B7E6F-seeklogo.com.png" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" />
 </p>
 
