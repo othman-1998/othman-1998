@@ -48,8 +48,5 @@ I build stuff, break stuff, fix it and automate whatever gets annoying.
 ### 📊 GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=othman-1998&show_icons=true&hide_title=true" />
-</p>
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othman-1998&layout=compact" />
 </p>
