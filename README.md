@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Othman</h1>
-<h3 align="center">Software Developer | RPA, Web & Automation</h3>
+<h3 align="center">Software Developer | RPA & Automation</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@ I build stuff, break stuff, fix it and automate whatever gets annoying.
 ### 🧠 About Me
 
 - 🎓 Educated Web Developer
-- 🤖 Working as an RPA Developer
+- 🤖 Working as an Intelligent Automation Developer
 - 🧩 I enjoy solving complex problems and streamlining workflows
 - 💡 Always curious about new tech
 
